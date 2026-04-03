@@ -16,6 +16,8 @@
  */
 #pragma once
 
+#define MASTER_LEFT
+
 #ifdef VIA_ENABLE
 /* VIA configuration. */
 #    define DYNAMIC_KEYMAP_LAYER_COUNT 7
